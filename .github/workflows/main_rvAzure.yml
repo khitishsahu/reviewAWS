@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'rvAzure'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_f0f967ffe2b542a1b0c82bc53535cbbb }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_5ee86ffa309245fea9cea58ede958e83 }}
